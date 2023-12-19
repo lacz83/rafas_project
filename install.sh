@@ -53,7 +53,7 @@ pip install tensorflow  # deep learning library
 pip install keras  # deep learning library
 pip install eikon  # Python wrapper for the Refinitiv Eikon Data API
 # Python wrapper for Oanda API
-pip install git+git://github.com/yhilpisch/tpqoa
+pip install git+https://github.com/yhilpisch/tpqoa
 
 # COPYING FILES AND CREATING DIRECTORIES
 mkdir -p /root/.jupyter/custom
